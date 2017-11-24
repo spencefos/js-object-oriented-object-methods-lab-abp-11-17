@@ -9,5 +9,7 @@ class BoardMember {
     return "No, I must disagree";
   }
 
-  approve() "You can do that";
+  approve(){
+    return "You can do that";
+  } 
 }
