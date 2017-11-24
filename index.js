@@ -8,4 +8,6 @@ class BoardMember {
   veto() {
     return "No, I must disagree";
   }
+
+  approve() "You can do that";
 }
